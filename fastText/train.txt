@@ -1,0 +1,3 @@
+__label__0 I love Gundam very much.
+__label__1 I like Doraemon. 
+__label__1 I like apple. 
